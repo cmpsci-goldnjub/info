@@ -1,6 +1,5 @@
 ---
-layout: default
+layout: page
+nav: home
 title: Hackathon for Humanity
 ---
-
-# Here it is

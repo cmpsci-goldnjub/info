@@ -12,18 +12,18 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
-        <li class="dropdown">
+        <li id="home-nav"><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
+        <li id="about-nav" class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ "/about/" | prepend: site.baseurl }}#The-Hackathon">The Hackathon</a></li>
-            <li><a href="{{ "/about/" | prepend: site.baseurl }}#People">People</a></li>
-            <li><a href="{{ "/about/" | prepend: site.baseurl }}#S-T-Computer-Science">S&amp;T Computer Science</a></li>
+            <li><a href="{{ "/about/" | prepend: site.baseurl }}#the-hackathon">The Hackathon</a></li>
+            <li><a href="{{ "/about/" | prepend: site.baseurl }}#st-computer-science">S&amp;T Computer Science</a></li>
+            <li><a href="{{ "/about/" | prepend: site.baseurl }}#people">People</a></li>
           </ul>
         </li>
-        <li><a href="{{ "/dates/" | prepend: site.baseurl }}">Dates</a></li>
-        <li><a href="{{ "/rules/" | prepend: site.baseurl }}">Rules</a></li>
-        <li><a href="{{ "/faq/" | prepend: site.baseurl }}">FAQ</a></li>
+        <li id="dates-nav"><a href="{{ "/dates/" | prepend: site.baseurl }}">Dates</a></li>
+        <li id="rules-nav"><a href="{{ "/rules/" | prepend: site.baseurl }}">Rules</a></li>
+        <li id="faq-nav"><a href="{{ "/faq/" | prepend: site.baseurl }}">FAQ</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>

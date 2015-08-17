@@ -1,9 +1,8 @@
 ---
-layout: default
-title: HfH Rules
+layout: page
+nav: rules
+title: Hackathon for Humanity Rules
 ---
-
-# Rules for Hackathon for Humanity
 
 ## General Information
 
@@ -11,7 +10,7 @@ Hackathon for Humanity (HfH) is hosted by the Computer Science
 department at Missouri S&T in honor of the department's 50th
 anniversary.
 
-# Modifications to These Rules
+## Modifications to These Rules
 
 Modifications to these rules can be found
 [on GitHub](https://github.com/cmpsci-goldnjub/info/commits/master/rules.md). It
