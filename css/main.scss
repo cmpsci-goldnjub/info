@@ -6,3 +6,20 @@ body {
     padding-top: 70px;
     padding-bottom: 30px;
 }
+
+.full-width {
+
+    .container-fluid {
+        padding: 0;
+    }
+
+    .row-even {
+        padding: 0;
+    }
+
+    .row-odd {
+        padding: 0;
+        background-color: #f8f5f0;
+    }
+
+}
