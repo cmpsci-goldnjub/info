@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 295.2197 129.96"
+   height="36.677601mm"
+   width="83.317558mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="hfh_white.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="676"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="1.5240768"
+     inkscape:cx="51.814153"
+     inkscape:cy="64.980002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4166"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 0,1.44 0,128.52 28.26,0 0,-55.44 52.02,0 0,55.44 28.26,0 0,-128.52 -28.26,0 0,49.32 -52.02,0 0,-49.32 -28.26,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4168"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 138.64219,50.4 0,79.56 15.3,0 0,-79.56 18,0 0,-13.5 -18,0 0,-12.96 q 0,-6.12 3.06,-8.28 3.06,-2.16 8.64,-2.16 1.98,0 4.32,0.36 2.34,0.18 4.32,0.9 l 0,-13.32 q -2.16,-0.72 -5.04,-1.08 -2.7,-0.36 -4.86,-0.36 -12.6,0 -19.26,5.94 -6.48,5.76 -6.48,17.1 l 0,13.86 -15.66,0 0,13.5 15.66,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4170"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 186.67969,1.44 0,128.52 28.26,0 0,-55.44 52.02,0 0,55.44 28.26,0 0,-128.52 -28.26,0 0,49.32 -52.02,0 0,-49.32 -28.26,0 z" />
+</svg>
