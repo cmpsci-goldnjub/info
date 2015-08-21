@@ -8,54 +8,162 @@ title: Hackathon for Humanity Rules
 
 Hackathon for Humanity (HfH) is hosted by the Computer Science
 department at Missouri S&T in honor of the department's 50th
-anniversary. In this event, teams will write programs and apps
-designed to help the local community. Unlike other Hackathons,
-this one will be hosted remotely over three weeks and their final
-programs will be presented to judges who are Missouri S&T Alumni.
+anniversary. In this event, teams will develop programs and apps
+designed to help their local community. Unlike other Hackathons,
+Hackathon for Humanity will be hosted remotely over three weeks. Final
+Submissions will be judged by a combination of Missouri S&T Alumni and
+entrepreneurs.
 
-## Rules
+Email questions to blah@mst.edu
 
-1. Teams can have 1-5 participants with the following restrictions:
 
-   a. Teams must have at least one (1) Missouri S&T student
-   
-   b. Teams may no more than two alumni members
-   
-   c. Teams may have no more than two faculty/staff members
-   
-Any team found not meeting eligibility requirements will be disqualified.
-Winning teams will have eligibility checked before prizes are awarded.
+## Official Hackathon Rules
 
-2. Prizes will be awarded as follows:
 
-   a. First place team will receive  $1000 USD
-   
-   b. Second place team will receive $750 USD
-   
-   c. Third place team will receive  $250 USD
-   
-   Prize money is per team and will be divided evenly among team members.
+1.  Team members may participate remotely
 
-3. All team names, project names, project descriptions, and other written content must not contain profanity or offensive media.
 
-4. All submissions to the Missouri S&T Hackathon are open source to make them easily accessable to the community the submissions are designed to help. Creators will be able to list themselves as authors, but do not retain the right to distribute their entry for any profit or gain. Missouri S&T retains the rights to a nonexclusive, royalty-free license to use, publicly distribute, and publicly display any submissions for the purposes of advertisement of future events as an example of your work.
+2.  Teams must have between 1 and 5 participants with the following restrictions:
 
-5. By submitting a Missouri S&T Hackathon for Humanity Entry or accepting any prize, you represent and warrant the following: (a) you will not submit content that is copyrighted, protected by trade secret or otherwise subject to third party intellectual property rights or other proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the content and to grant Missouri S&T all of the rights granted herein; (b) you will not publish falsehoods or misrepresentations that could damage Missouri S&T, Sponsors, or any third party; (c) you will not submit content that is unlawful, obscene, defamatory, libelous, threatening, pornographic, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate or destructive to Missouri S&T's or Sponsors' brand image or goodwill; (d) you will not post advertisements or solicitations of business; (e) Missouri S&T will not be obligated to pay any compensation to, or permit any participation by, any third party in connection with the use, reproduction, modification, publication, display or other exploitation of any of the content that you submit; and (f) the content submitted by you does not contain any viruses, Trojan horses, worms or other disabling devices or harmful code.
+    - Teams *must* have at least one Missouri S&T student enrolled as
+      a Computer Science major for Fall semester 2015
+    - Teams may have no more than two alumni members
+    - Teams may have at most one member who is Missouri S&T faculty or
+      staff
+    - Competitors may be a member of at most one team
+    - Every team member must be one of the following:
+    - Currently enrolled Missouri S&T student
+        - Current Missouri S&T staff
+        - Current Missouri S&T faculty
+        - Missouri S&T alumni
+    - All team members must be registered with the Hackathon website.
+    - Teams must be formed on the Hackathon for Humanity website.
+    - Judges and hackathon organizers are ineligible to participate in
+      the Hackathon.
 
-By posting or submitting a Missouri S&T Hackathon for Humanity Entry to the Contest (regardless of the form or medium of such content), you understand that you will not receive any compensation or credit for use of your Missouri S&T Hackathon for Humanity Entry, other than what is described in these Official Contest Rules.
 
-6. Winners will be judged on the following criteria:
- 
-   a. Quality and user-friendliness of the design
-   b. Innovativeness and creativity
-   c. How well the entry addresses local community problems
-   d. Product presentation/video to the judges
+    Any team that does not meet eligibility requirements may be
+    disqualified.
 
-7. Winners will be selected by a panel of judges. By submitting any Missouri S&T Hackathon for Humanity Entry, entrants release Missouri S&T, Sponsors, their respective subsidiaries, affiliates, directors, officers, employees, representatives, agents, students, and advisors from any and all liability for any claims, costs, injuries, losses, or damages of any kind arising out of or in connection with the decisions of the judges.
- 
-8. Contest prizes are non-transferable by the winner. If you accept a prize, you will be solely responsible for all applicable taxes related to accepting such prize.
- 
-9. By entering this Contest, you agree to be bound by these Official Hackathon Rules. The Official Hackathon Rules will be posted here. To the maximum extent permitted by law, Missouri S&T reserves the right to change these Official Hackathon Rules at any time. You further agree to be bound by the decisions of Missouri S&T and the judges which shall be final and binding in all respects. Missouri S&T reserves the right, at its sole discretion, to disqualify any individual that tampers or attempts to tamper with the Missouri S&T Hackathon for Humanity Entry process or the operation of the Hackathon or web site; violates the Official Hackathon Rules; or acts in an unsportsmanlike or disruptive manner, or with intent to annoy, abuse, threaten or harass any other person.
+    Winning teams will have eligibility checked before prizes are
+    awarded. Note: if a single member does not meet eligibility
+    requirements, the entire team is considered to be ineligible in
+    totality.
+
+
+    All submissions must be completed on the Hackathon website by
+    11:59:59 PM Central Time (Rolla Time) on 9/21/2015. Submissions
+    after this deadline will not be considered for judge
+
+
+    All submitted projects must run on one or more of the following platforms:
+
+    - Android KitKat (or newer)
+    - iOS 7 (or newer)
+    - modern browsers
+
+    All submissions must include instructions for execution.
+
+
+    Any teams with a submission over 1GB in size should contact the
+    event organizers at blah@mst.edu at least 48 hours before the
+    submission deadlines to discuss submission arrangements.
+
+    ~Submissions~ Submitted projects must be original.
+
+3.  Prizes will be awarded to eligible teams as follows:
+    - First place team will receive  $1000
+    - Second place team will receive $600
+    - Third place team will receive  $400
+
+
+    Prize money will be awarded per team and will be divided evenly
+    among team members.
+
+    Winners are encouraged, but not required, to attend the Hackathon
+    awards ceremony in order to receive prizes.
+
+
+4.  All team names, project names, project descriptions, submissions,
+    and other material must not contain profanity or offensive content.
+
+
+5.  Each team may make multiple submissions; however, only the
+    submission closest to (but before) the submission deadline will be
+    presented to the judges.
+
+
+6.  All submissions to the Missouri S&T Hackathon must be licenced
+    under the
+    [MIT License](http://choosealicense.com/licenses/mit/). The
+    license must be applied as explained by
+    [choosealicense.com](http://choosealicense.com/licenses/mit/). The
+    purpose of this is to make projects easily accessible to the
+    communities that the submissions are designed to help. Note that
+    this is a very permissive license, and the authors are free to
+    use, modify, distribute, etc. their software as they see fit.
+
+
+6.  By submitting a Missouri S&T Hackathon for Humanity Entry you
+    represent and warrant the following: (a) you will not submit
+    content that is copyrighted, protected by trade secret or
+    otherwise subject to third party intellectual property rights or
+    other proprietary rights, including privacy and publicity rights,
+    unless you are the owner of such rights or have permission from
+    their rightful owner; (b) you will not publish falsehoods or
+    misrepresentations that could damage Missouri S&T, Sponsors, or
+    any third party; (c) you will not submit content that is unlawful,
+    obscene, defamatory, libelous, threatening, pornographic,
+    harassing, hateful, racially or ethnically offensive, or
+    encourages conduct that would be considered a criminal offense,
+    give rise to civil liability, violate any law, or is otherwise
+    inappropriate or destructive to sponsors' brand image or goodwill;
+    (d) you will not post advertisements or solicitations of business;
+    (e) Missouri S&T will not be obligated to pay any compensation to,
+    or permit any participation by, any third party in connection with
+    the use, reproduction, modification, publication, display or other
+    exploitation of any of the content that you submit; and (f) the
+    submitted content must not contain any viruses, Trojan horses,
+    worms, disabling devices, malicious, or harmful code.
+
+7.  Winners will be judged on the following criteria:
+
+    - Quality and user-friendliness of the design
+    - Look and feel of the final submission
+    - Innovativeness and creativity
+    - How well the entry addresses real societal problems
+    - Quality of product presentation/video
+    - Robustness and functionality of the submitted project
+
+8.  Winners will be selected by a panel of judges. By submitting any
+    Missouri S&T Hackathon for Humanity Entry, entrants release
+    Missouri S&T, Sponsors, their respective subsidiaries, affiliates,
+    directors, officers, employees, representatives, agents, students,
+    and advisors from any and all liability for any claims, costs,
+    injuries, losses, or damages of any kind arising out of or in
+    connection with the decisions of the judges.
+
+9.  Contest prizes will be directly awarded to the individual members
+    of winning teams and are non-transferable. Winners will be solely
+    responsible for all applicable taxes related to contest prizes.
+
+
+10. Teams will have the option of making their project ideas public or
+    private until judging. If any team publicizes their idea, they
+    understand that other teams may develop on a similar idea and
+    present it as their own.
+
+11. By entering this contest, you agree to be bound by these Official
+    Hackathon Rules. The Official Hackathon Rules will be posted
+    here. You further agree to be bound by the decisions of event
+    organizers and the judges which shall be final and binding in all
+    respects. Hackathon organizers reserves the right, at their
+    discretion, to disqualify any individual that tampers or attempts
+    to tamper with Hackathon for Humanity Entry process or any aspect
+    of the Hackathon; violates these rules; or acts in an
+    unsportsmanlike or disruptive manner, or with intent to abuse,
+    threaten, or harass any other person.
+
 
 ## Modifications to These Rules
 
