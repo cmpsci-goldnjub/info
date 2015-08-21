@@ -61,8 +61,6 @@ img.brand {
     }
 }
 
-
-
 .idea {
     margin: 0;
     padding-top: 0.5em;
@@ -71,5 +69,24 @@ img.brand {
 
     @media screen and (max-width: 768px) {
         font-size: 3em;
+    }
+}
+
+.prizes {
+    text-align: center;
+    font-weight: bold;
+
+    .winner {
+        font-size: 2em;
+        @media screen and (max-width: 600px) {
+            font-size: 1.5em;
+        }
+    }
+
+    .amount {
+        font-size: 3em;
+        @media screen and (max-width: 600px) {
+            font-size: 2em;
+        }
     }
 }
