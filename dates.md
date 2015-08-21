@@ -8,9 +8,7 @@ Use the following list of dates to plan your development schedule:
 
 * **8/24/2015** (start of classes) – Announce event and provide inspiring examples
 
-* **9/1/2015** – Competition Start Date, Kickoff with food and live streaming
-
-* **9/12** & **9/13/2015** – Optional Local Event
+* **9/1/2015** – Competition Start Date, Kickoff with live streaming
 
 * **9/21/2015** – Competition End Date
 
