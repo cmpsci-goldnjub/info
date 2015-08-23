@@ -61,14 +61,25 @@ img.brand {
     }
 }
 
-.idea {
-    margin: 0;
-    padding-top: 0.5em;
-    font-size: 1.2em;
-    font-weight: bold;
+#examples {
+    a {
+        color: inherit;
+    }
 
-    @media screen and (max-width: 768px) {
-        font-size: 2em;
+    a:hover {
+        color: #93c54b;
+        text-decoration: none;
+    }
+
+    .name {
+        margin: 0;
+        padding-top: 0.5em;
+        font-size: 1.2em;
+        font-weight: bold;
+
+        @media screen and (max-width: 768px) {
+            font-size: 2em;
+        }
     }
 }
 
