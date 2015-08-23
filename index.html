@@ -77,20 +77,28 @@ title: Hackathon for Humanity
           <p style="font-size:3em; font-weight:bold">Example Projects</p>
           <div class="row">
             <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-2 col-md-3 col-md-offset-0">
-              <img class="brand" src="{{ "/images/coin.svg" | prepend:site.baseurl }}" alt="coin">
-              <p class="idea">Grant Finder</p>
+              <a href="#grant-finder-modal" data-toggle="modal">
+                <img class="brand" src="{{ "/images/coin.svg" | prepend:site.baseurl }}" alt="coin">
+                <p class="idea">Grant Finder</p>
+              </a>
             </div>
             <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-0 col-md-3 col-md-offset-0">
-              <img class="brand" src="{{ "/images/shamrock.svg" | prepend:site.baseurl }}" alt="shamrock leaf">
-              <p class="idea">Garden Warrior</p>
+              <a href="#garden-warrior-modal" data-toggle="modal">
+                <img class="brand" src="{{ "/images/shamrock.svg" | prepend:site.baseurl }}" alt="shamrock leaf">
+                <p class="idea">Garden Warrior</p>
+              </a>
             </div>
             <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-2 col-md-3 col-md-offset-0">
-              <img class="brand" src="{{ "/images/power_plants.svg" | prepend:site.baseurl }}" alt="power plants">
-              <p class="idea">Climate Impact Visualizer</p>
+              <a href="#climate-impact-modal" data-toggle="modal">
+                <img class="brand" src="{{ "/images/power_plants.svg" | prepend:site.baseurl }}" alt="power plants">
+                <p class="idea">Climate Impact Visualizer</p>
+              </a>
             </div>
             <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-0 col-md-3 col-md-offset-0">
-              <img class="brand" src="{{ "/images/heart.svg" | prepend:site.baseurl }}" alt="heart">
-              <p class="idea">Flash Aid</p>
+              <a href="#flash-aid-modal" data-toggle="modal">
+                <img class="brand" src="{{ "/images/heart.svg" | prepend:site.baseurl }}" alt="heart">
+                <p class="idea">Flash Aid</p>
+              </a>
             </div>
           </div>
         </div>
@@ -156,3 +164,8 @@ title: Hackathon for Humanity
     </div>
   </div>
 </div>
+
+{% include modals/grant_finder.html %}
+{% include modals/garden_warrior.html %}
+{% include modals/climate_impact.html %}
+{% include modals/flash_aid.html %}
