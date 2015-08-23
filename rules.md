@@ -19,10 +19,10 @@ Email questions to blah@mst.edu
 2.  Teams must have between 1 and 5 participants with the following restrictions:
     - Teams *must* have at least one Missouri S&T student enrolled as a Computer Science major for Fall semester 2015
     - Teams may have no more than two alumni members
-    - Teams may have at most one member who is Missouri S&T faculty or staff 
+    - Teams may have at most one member who is Missouri S&T faculty or staff
     - Competitors may be a member of at most one team
     - Every team member must be one of the following:
-		- Currently enrolled Missouri S&T student
+        - Currently enrolled Missouri S&T student
         - Current Missouri S&T staff
         - Current Missouri S&T faculty
         - Missouri S&T alumni
@@ -59,21 +59,21 @@ Email questions to blah@mst.edu
 ## Prizes
 
 1.  Prizes will be awarded to eligible teams as follows:
-    - First place team will receive  $1000 
-  	- Second place team will receive $600
-   	- Third place team will receive  $400
+    - First place team will receive  $1000
+    - Second place team will receive $600
+    - Third place team will receive  $400
 
 2.  Prize money will be awarded per team and will be divided evenly among team members.
 
 3.  Winners are encouraged, but not required, to attend the Hackathon awards ceremony in order to receive prizes.
 
-4.  Winners will be judged on the following criteria: 
+4.  Winners will be judged on the following criteria:
     - Quality and user-friendliness of the design
-   	- Look and feel of the final submission
-   	- Innovativeness and creativity
-   	- How well the entry addresses real societal problems
-   	- Quality of product presentation/video
-   	- Robustness and functionality of the submitted project
+    - Look and feel of the final submission
+    - Innovativeness and creativity
+    - How well the entry addresses real societal problems
+    - Quality of product presentation/video
+    - Robustness and functionality of the submitted project
 
 5.  Contest prizes will be directly awarded to the individual members of winning teams and are non-transferable. Winners will be solely responsible for all applicable taxes related to contest prizes.
 
