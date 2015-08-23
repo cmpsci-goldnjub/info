@@ -14,6 +14,11 @@ anniversary.
 
 ## People
 
+* Daniel Tauritz - Chair
+* Mike Wisely - Webmaster
+* Katrina Ward - Social Media
+* Sammie Bush
+
 <!-- Emacs spell checking exceptions. -->
 <!--  LocalWords:  HfH Hackathon
  -->
