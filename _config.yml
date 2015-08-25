@@ -7,7 +7,7 @@ description: >
   Hackathon for Humanity is part of Missouri S&T's Golden Jubilee
   Celebration, honoring the department's 50th anniversary.
 
-baseurl: "/info"
+baseurl: ""
 
 url: "http://compsci-hfh.github.io" # the base hostname & protocol for your site
 
