@@ -22,7 +22,7 @@ anniversary.
 
 ## S&T Computer Science
 
-The mission of the Computer Science Department at Missouri University of Science and Technology is to help students reach their full potential by providing them the knowledge and preparation necessary to meet the challenges of designing and developing computing software systems and algorithms.  Students receive excellent technical education as well as learning experiences specifically designed to develop the problem solving skills so necessary for success in the computing profession.
+The mission of the Computer Science Department at Missouri University of Science and Technology is to help students reach their full potential by providing them the knowledge and preparation necessary to meet the challenges of designing and developing computing software systems and algorithms. Students receive excellent technical education as well as learning experiences specifically designed to develop the problem solving skills so necessary for success in the computing profession.
 
 ## People
 
