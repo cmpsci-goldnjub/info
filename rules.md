@@ -8,7 +8,7 @@ title: Hackathon for Humanity Rules
 
 Hackathon for Humanity (HfH) is hosted by the Computer Science department at Missouri S&T in honor of the department's 50th anniversary. In this event, teams will develop programs and apps designed to help their local community. Unlike other Hackathons, Hackathon for Humanity will be hosted remotely over three weeks. Final Submissions will be  judged by a combination of Missouri S&T Alumni and entrepreneurs.
 
-Email questions to blah@mst.edu
+Email questions to Katrina at kjw26b@mst.edu
 
 ## Official Hackathon Rules
 
@@ -52,7 +52,7 @@ Email questions to blah@mst.edu
 
 4.  The final submission must include a link to a video presenting the app. The video must be no longer than five minutes. We will only accept links. Please do not try to upload the actual video.
 
-4.  Any teams with a submission over 1GB in size should contact the event organizers at blah@mst.edu at least 48 hours before the submission deadlines to discuss submission arrangements.
+4.  Any teams with a submission over 1GB in size should contact the event organizers at kjw26b@mst.edu at least 48 hours before the submission deadlines to discuss submission arrangements.
 
 5.  Submissions must be original content
 
