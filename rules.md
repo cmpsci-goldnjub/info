@@ -41,7 +41,7 @@ Email questions to blah@mst.edu
 
 ## Project Submission
 
-1.  All submissions must be completed on the Hackathon website by 11:59:59 PM Central Time (Rolla Time) on 9/21/2015. Submissions after this deadline will not be considered for judge
+1.  All submissions must be completed on the Hackathon website by 11:59:59 PM Central Time (Rolla Time) on 9/21/2015. Submissions after this deadline will not be considered for judging.
 
 2.  All submitted projects must run on one or more of the following platforms:
     - Android KitKat (or newer)
