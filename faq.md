@@ -4,6 +4,17 @@ nav: faq
 title: Frequently Asked Questions
 ---
 
+## Where can I get some advice about app development?
+
+HfH has enlisted the help of three wonderful experts who can answer
+your questions about app implementation! If you have questions about
+development, feel free to send them an email.
+
+* Web Applications: Lauren Kroenung, lnk7x9@mst.edu
+* iOS Applications: Nicholas Trampe, nftn83@mst.edu
+* Android Applications: Ean Lombardo, el3h6@mst.edu
+
+
 ## Can my team maintain code with a version control system?
 
 Of course! We recommend it. However, we are not providing any VCS
@@ -41,7 +52,7 @@ Absolutely! Any Missouri S&T student, alumni, faculty, and staff may participate
 
 ## What if I can't program?
 
-This is a great place to learn! Also, teams will have to create a video presentation for the judges, therefore teams will need someone who is good at video editing and presentations. 
+This is a great place to learn! Also, teams will have to create a video presentation for the judges, therefore teams will need someone who is good at video editing and presentations.
 
 ## What if I have a great idea? Who owns it?!
 
