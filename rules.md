@@ -50,7 +50,7 @@ Email questions to Katrina at kjw26b@mst.edu
 
 3.  All submissions must include instructions for execution.
 
-4.  The final submission must include a link to a video presenting the app. The video must be no longer than five minutes. We will only accept links. Please do not try to upload the actual video.
+4.  The submission must include a link to a video presenting the app. The video must be no longer than five minutes, and it must be private. We will only accept links. Please do not try to upload the actual video.
 
 4.  Any teams with a submission over 1GB in size should contact the event organizers at kjw26b@mst.edu at least 48 hours before the submission deadlines to discuss submission arrangements.
 
