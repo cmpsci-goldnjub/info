@@ -1,0 +1,5 @@
+# Site settings
+title: Hackathon for Humanity
+
+# Build settings
+markdown: kramdown
