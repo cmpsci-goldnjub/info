@@ -10,9 +10,9 @@ HfH has enlisted the help of three wonderful experts who can answer
 your questions about app implementation! If you have questions about
 development, feel free to send them an email.
 
-* Web Applications: Lauren Kroenung, lnk7x9@mst.edu
-* iOS Applications: Nicholas Trampe, nftn83@mst.edu
-* Android Applications: Ean Lombardo, el3h6@mst.edu
+* Web Applications: Lauren Kroenung, <lnk7x9@mst.edu>
+* iOS Applications: Nicholas Trampe, <nftn83@mst.edu>
+* Android Applications: Ean Lombardo, <el3h6@mst.edu>
 
 
 ## Can my team maintain code with a version control system?
