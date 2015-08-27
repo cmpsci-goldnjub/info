@@ -9,7 +9,7 @@ description: >
 
 baseurl: ""
 
-url: "http://compsci-hfh.github.io" # the base hostname & protocol for your site
+url: "http://h4h@mst.edu" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

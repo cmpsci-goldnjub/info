@@ -6,7 +6,7 @@ title: About Hackathon for Humanity
 
 ## The Hackathon
 
-Hackathon for Humanity (HfH) is hosted by the Computer Science
+Hackathon for Humanity (H4H) is hosted by the Computer Science
 department at Missouri S&T in honor of the department's 50th
 anniversary.
 
@@ -32,5 +32,5 @@ The mission of the Computer Science Department at Missouri University of Science
 * Sammie Bush
 
 <!-- Emacs spell checking exceptions. -->
-<!--  LocalWords:  HfH Hackathon
+<!--  LocalWords:  H4H Hackathon
  -->

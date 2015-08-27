@@ -6,7 +6,7 @@ title: Frequently Asked Questions
 
 ## Where can I get some advice about app development?
 
-HfH has enlisted the help of three wonderful experts who can answer
+H4H has enlisted the help of three wonderful experts who can answer
 your questions about app implementation! If you have questions about
 development, feel free to send them an email.
 
@@ -22,7 +22,7 @@ hosting. You may use any hosting service you please, and you are
 welcome to keep your code private until after submissions are
 complete.
 
-As long as your final submission meets the HfH requirements, we don't
+As long as your final submission meets the H4H requirements, we don't
 care how you decide to maintain your code.
 
 

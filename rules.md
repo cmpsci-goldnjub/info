@@ -6,7 +6,7 @@ title: Hackathon for Humanity Rules
 
 ## General Information
 
-Hackathon for Humanity (HfH) is hosted by the Computer Science department at Missouri S&T in honor of the department's 50th anniversary. In this event, teams will develop programs and apps designed to help their local community. Unlike other Hackathons, Hackathon for Humanity will be hosted remotely over three weeks. Final Submissions will be  judged by a combination of Missouri S&T Alumni and entrepreneurs.
+Hackathon for Humanity (H4H) is hosted by the Computer Science department at Missouri S&T in honor of the department's 50th anniversary. In this event, teams will develop programs and apps designed to help their local community. Unlike other Hackathons, Hackathon for Humanity will be hosted remotely over three weeks. Final Submissions will be  judged by a combination of Missouri S&T Alumni and entrepreneurs.
 
 Email questions to <{{ site.email }}>.
 
@@ -100,5 +100,5 @@ this and other Hackathon documents.
 
 
 <!-- Emacs spell checking exceptions. -->
-<!--  LocalWords:  HfH Hackathon th
+<!--  LocalWords:  H4H Hackathon th
  -->
