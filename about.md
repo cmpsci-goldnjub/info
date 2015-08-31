@@ -6,9 +6,34 @@ title: About Hackathon for Humanity
 
 ## The Hackathon
 
-Hackathon for Humanity (H4H) is hosted by the Computer Science
-department at Missouri S&T in honor of the department's 50th
-anniversary.
+S&T’s Computer Science Department is celebrating its
+[Golden Jubilee](http://cs.mst.edu/50years/). One of the many exciting
+Golden Jubilee events is the Hackathon for Humanity (H4H). This is a
+multi-week competition for teams of S&T students, alumni, faculty, and
+staff to create the most outstanding web or mobile app (iOS or
+Android) that is beneficial to society. $2,000 in prize money is
+available! Remote participation is fully supported and mixed teams of
+for instance on campus students and remote alumni are
+encouraged. Comprehensive rules, including rules for team formation,
+submission, and judging, are available here on the H4H website
+(<http://h4h.mst.edu/>).
+
+### The Kickoff
+
+The H4H Kickoff event is Thursday September 3rd 2015 12:30-1:30 PM
+Central Standard Daylight Savings Time (i.e., Rolla time) in room 209
+of the Computer Science Building. During this event, examples of apps
+serving society will be provided, and the procedures for forming teams
+and submitting entries demonstrated. This is the perfect opportunity
+for Q&A and to form teams on the spot. Free food & beverages will be
+provided. For remote attendees (e.g., alumni, students who just woke
+up), if you just want to watch, use the passive live stream at
+<https://www.kaltura.com/tiny/dge9i> or, if you want to actively
+participate, then use
+[this WebEx link](https://mstedu.webex.com/mstedu/j.php?MTID=ma9838fc5b691712cc0f7be9c8985081a)
+with meeting number `637 816 875` and password `hackathon`. Shortly
+after the kickoff, links to recordings of the live streaming will be
+made available on the H4H website.
 
 ### Important Dates
 
