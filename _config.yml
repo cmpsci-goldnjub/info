@@ -3,6 +3,7 @@ title: Hackathon for Humanity
 email: h4h@mst.edu
 permalink: pretty
 exclude:
+  - "README.md"
   - "fabfile.py"
   - "*.pyc"
 
