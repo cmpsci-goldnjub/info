@@ -2,6 +2,9 @@
 title: Hackathon for Humanity
 email: h4h@mst.edu
 permalink: pretty
+exclude:
+  - "fabfile.py"
+  - "*.pyc"
 
 description: >
   Hackathon for Humanity is part of Missouri S&T's Golden Jubilee
