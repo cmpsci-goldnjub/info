@@ -58,6 +58,9 @@ Email questions to <{{ site.email }}>.
 
 6.  Each team may make multiple submissions; however, only the submission closest to (but before) the submission deadline will be presented to the judges.
 
+7. In addition to source code, submissions must include the app in its most portable form (or for web apps, a link to the app) to facilitate judging. Mobile applications must be ready to install (Android APK or iOS IPA), and web applications must be hosted and accessible to judges.
+
+
 ## Prizes
 
 1.  Prizes will be awarded to eligible teams as follows:
