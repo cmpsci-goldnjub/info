@@ -4,6 +4,18 @@ nav: faq
 title: Frequently Asked Questions
 ---
 
+## What if I qualify for multiple roles (ie. Alumni and Staff)?
+
+You may choose either role to participate as, as long as the role you choose does not disqualify your team.
+
+## I am a Postdoc. What role should I choose?
+
+You may participate as either a student or staff as long as your choice does not disqualify your team.
+
+## I have multiple majors, one of which is computer science. Is my team still qualified?
+
+Yes. As long as someone on the team has computer science as a major, they qualify as the computer science student team member.
+
 ## Where can I get some advice about app development?
 
 H4H has enlisted the help of three wonderful experts who can answer
