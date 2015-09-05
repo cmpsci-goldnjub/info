@@ -20,20 +20,16 @@ submission, and judging, are available here on the H4H website
 
 ### The Kickoff
 
-The H4H Kickoff event is Thursday September 3rd 2015 12:30-1:30 PM
-Central Standard Daylight Savings Time (i.e., Rolla time) in room 209
-of the Computer Science Building. During this event, examples of apps
-serving society will be provided, and the procedures for forming teams
-and submitting entries demonstrated. This is the perfect opportunity
-for Q&A and to form teams on the spot. Free food & beverages will be
-provided. For remote attendees (e.g., alumni, students who just woke
-up), if you just want to watch, use the passive live stream at
-<https://www.kaltura.com/tiny/dge9i> or, if you want to actively
-participate, then use
-[this WebEx link](https://mstedu.webex.com/mstedu/j.php?MTID=ma9838fc5b691712cc0f7be9c8985081a)
-with meeting number `637 816 875` and password `hackathon`. Shortly
-after the kickoff, links to recordings of the live streaming will be
-made available on the H4H website.
+The H4H Kickoff event was Thursday September 3rd. During the event,
+examples of apps serving society were provided, and the procedures for
+forming teams and submitting entries demonstrated.
+
+Missed the Kickoff? Want to experience it again? Watch it here!
+
+<iframe
+src="https://cdnapisec.kaltura.com/p/1067272/sp/106727200/embedIframeJs/uiconf_id/29327732/partner_id/1067272?iframeembed=true&playerId=kaltura_player_1441307696&entry_id=0_bp99tyre&flashvars[streamerType]=rtmp&flashvars[mediaProtocol]=rtmpe"
+width="767" height="320" allowfullscreen webkitallowfullscreen
+mozAllowFullScreen frameborder="0"></iframe>
 
 ### Important Dates
 
