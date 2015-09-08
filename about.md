@@ -24,7 +24,10 @@ The H4H Kickoff event was Thursday September 3rd. During the event,
 examples of apps serving society were provided, and the procedures for
 forming teams and submitting entries demonstrated.
 
-Missed the Kickoff? Want to experience it again? Watch it here!
+Missed the Kickoff? Want to experience it again?
+
+<a href="https://www.kaltura.com/tiny/ecezm" class="btn btn-default"><i class="fa fa-tv"></i>&nbsp;&nbsp;View it on Kaltura</a>
+<a href="https://www.kaltura.com/tiny/7smhj" class="btn btn-default"><i class="fa fa-download"></i>&nbsp;&nbsp;Download it from Kaltura</a>
 
 <iframe
 src="https://cdnapisec.kaltura.com/p/1067272/sp/106727200/embedIframeJs/uiconf_id/29327732/partner_id/1067272?iframeembed=true&playerId=kaltura_player_1441307696&entry_id=0_bp99tyre&flashvars[streamerType]=rtmp&flashvars[mediaProtocol]=rtmpe"
