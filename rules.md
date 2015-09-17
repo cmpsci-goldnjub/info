@@ -48,6 +48,8 @@ Email questions to <{{ site.email }}>.
     - iOS 7 (or newer)
     - modern browsers
 
+3.  All submissions must include project source code licensed as described in License and Copyright section. Source code should be submitted in a [ZIP](https://en.wikipedia.org/wiki/Zip_(file_format)) archive.
+
 3.  All submissions must include instructions for execution.
 
 4.  The submission must include a link to a YouTube or Vimeo video presenting the app. The video must be no longer than five minutes, and it must be private. We will only accept links. Please do not try to upload the actual video to the H4H website.
