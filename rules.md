@@ -52,7 +52,7 @@ Email questions to <{{ site.email }}>.
 
 4.  The submission must include a link to a YouTube or Vimeo video presenting the app. The video must be no longer than five minutes, and it must be private. We will only accept links. Please do not try to upload the actual video to the H4H website.
 
-4.  Any teams with a submission over 1GB in size should contact the event organizers at <{{ site.email }}> at least 48 hours before the submission deadlines to discuss submission arrangements.
+4.  Any teams with a submission over **128 megabytes** in size should contact the event organizers at <{{ site.email }}> at least 48 hours before the submission deadlines to discuss submission arrangements.
 
 5.  Submissions must be original content
 
