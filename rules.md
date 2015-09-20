@@ -88,7 +88,7 @@ Email questions to <{{ site.email }}>.
 
 ## Licensing and Copyright
 
-1.  All submissions to the Missouri S&T Hackathon must be licenced under the [MIT License](http://choosealicense.com/licenses/mit/). The license must be applied as explained by [choosealicense.com](http://choosealicense.com/licenses/mit/). The purpose of this is to make projects easily accessible to the communities that the submissions are designed to help. Note that this is a very permissive license, and the authors are free to use, modify, distribute, etc. their software as they see fit.
+1.  All submissions to the Missouri S&T Hackathon for Humanity must be licenced under the [MIT License](http://choosealicense.com/licenses/mit/). The license must be applied as explained by [choosealicense.com](http://choosealicense.com/licenses/mit/). The purpose of this is to make projects easily accessible to the communities that the submissions are designed to help. Note that this is a very permissive license, and the authors are free to use, modify, distribute, etc. their software as they see fit.
 
 2.  Teams will have the option of making their project ideas public or private until judging. If any team publicizes their idea, they understand that other teams may develop on a similar idea and present it as their own.
 
