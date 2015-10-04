@@ -4,6 +4,10 @@ nav: faq
 title: Frequently Asked Questions
 ---
 
+## Who won?!
+
+After much deliberation, the judges have chosen the winners of the 2015 Hackathon for Humanity! Winners have been notified, but they have been asked to keep it a secret until the [awards ceremony](http://cs.mst.edu/50years/homecoming/) on October 23rd. Don't forget to get your ticket!
+
 ## What if I qualify for multiple roles (ie. Alumni and Staff)?
 
 You may choose either role to participate as, as long as the role you choose does not disqualify your team.
