@@ -1,0 +1,18 @@
+---
+layout: page
+title: H4H Projects
+---
+
+{% for project in site.data.projects %}
+<div class="media">
+  <div class="media-left media-middle">
+    <a href="#">
+      <img class="media-object" src="{{ project.logo | prepend: site.baseurl }}" alt="...">
+    </a>
+  </div>
+  <div class="media-body">
+    <h3 class="media-heading">{{project.name}}</h3>
+    {{project.description}}
+  </div>
+</div>
+{% endfor %}
