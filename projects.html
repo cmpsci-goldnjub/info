@@ -3,11 +3,19 @@ layout: page
 title: H4H Projects
 ---
 
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <img class="brand" src="{{ "/images/podium.svg" | prepend: site.baseurl }}" alt="Podium" />
+  </div>
+</div>
+
+<hr>
+
 {% for project in site.data.projects %}
 <div class="media">
   <div class="media-left media-middle">
     <a href="#">
-      <img class="media-object" src="{{ project.logo | prepend: site.baseurl }}" alt="...">
+      <img class="media-object" src="{{ project.logo | prepend: site.baseurl }}" alt="{{ project.name }}">
     </a>
   </div>
   <div class="media-body">
