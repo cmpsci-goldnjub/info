@@ -1,0 +1,42 @@
+---
+layout: default
+title: H4H Projects
+nav: projects
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3 text-center">
+          <h2>Hackathon for Humanity</h2>
+          <h1>Winners</h1>
+          <hr>
+          <img class="podium" src="{{ "/images/podium.svg" | prepend: site.baseurl }}" alt="Podium" />
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          {% for project in site.data.projects %}
+          <hr>
+
+          <div class="media">
+            <div class="media-left media-top">
+              <a href="#">
+                <img class="media-object" src="{{ project.logo | prepend: site.baseurl }}" alt="{{ project.name }}">
+              </a>
+              <br>
+              <a class="btn btn-success" href="{{ project.download | prepend: site.baseurl }}"><i class="fa fa-download"></i>&nbsp;Download</a>
+            </div>
+            <div class="media-body">
+              <h3 class="media-heading">{{project.name}}</h3>
+              {{project.description}}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

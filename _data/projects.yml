@@ -1,0 +1,159 @@
+- name: Centerof.us
+  logo: /images/logos/centerofus_logo.png
+  download: /downloads/centerofus.zip
+  description: |
+    Choosing a meeting place is hard, especially as your group gets larger
+    and distances get greater. Finding that perfect place requires taking
+    into consideration everyone’s preferences without leaving anyone
+    out. Centerof.us is here to make this process a snap for anyone, just
+    create a meeting and share the link with anyone you want to be a part
+    of your group. It's that easy! All members can set what places they
+    prefer to meet so decisions are made democratically with everyone’s
+    input. In real-time, as more people join and change their preferences,
+    the meeting creator will see suggestions for meeting places that are
+    centralized and are the types of places that the group is agreeable
+    with. The meeting creator selects one of these places to finalize the
+    meeting location and any member can receive directions to the meeting.
+
+- name: CharityMe
+  logo: /images/logos/charityme_logo.png
+  download: /downloads/charityme.zip
+  description: |
+    Our project improves the inefficient process of charitable donation by
+    connecting donors and recipients and allowing for low effort,
+    automatic, free exchanges between them. This is accomplished through
+    the joint use of a web based and mobile services, using the same
+    database. Utilizing a mobile cloud computing and distributed systems
+    system, we have developed a service that can act in real time, draw
+    from data from both mobile and web users, and lead the users to the
+    location of the charity or donor. The service also utilizes
+    geo-location data to provide users with a local view of
+    charities/donors in their area as well as establishments looking for
+    volunteers. All of this allows for a faster, more efficient way for
+    people to conduct giving. Bringing the world together one act of
+    kindness at a time.
+
+- name: Hobby Cooperative
+  logo: /images/logos/hobbycoop_logo.png
+  download: /downloads/hobbycooperative.zip
+  description: |
+    At Hobby Cooperative, our goal is to facilitate the sharing of tools
+    and equipment across communities. Our platform is targeted towards
+    those in temporary need of such equipment, as well as new hobbyists
+    eager to gain experience with professional equipment. No longer must
+    we spend great sums of money for new equipment we may never use again!
+    Why not borrow from your neighbor? With Hobby Cooperative, both novice
+    and experienced hobbyists, people in need and people eager to help,
+    can come together easily and help one another out.
+
+- name: HobbySpot
+  logo: /images/logos/hobbyspot_logo.png
+  download: /downloads/hobbyspot.zip
+  description: |
+    The goal of our application is to give people a place to do the things
+    they love. Its simple and easy to use interface allows nearby people
+    to communicate with each other, through the use of Google Maps. Once
+    in the application, click the menu button in the bottom right, and
+    then the 'add location' button. A ping will be dropped on the map,
+    which you can drag around the map. Clicking the accept button brings
+    you to a final page, where you have the ability to input information
+    like 'name,' type of hobby, and a short description before submitting
+    the ping. This allows other users to see the ping on the map.
+
+- name: NOTEX
+  logo: /images/logos/notex_logo.png
+  download: /downloads/notex.zip
+  description: |
+    NOTEX is a chat application for phones (Android OS) made to keep
+    drivers from texting while driving by leveraging social interactions
+    with computer technologies. When a person attempts to send a text
+    while driving, the message is flagged and the recipient sees a message
+    informing them that the sender is currently driving. This encourages
+    the recipient to postpone conversation, which in turn encourages the
+    driver to wait until after the car is stopped to text.
+
+- name: SafeRides
+  logo: /images/logos/saferides_logo.png
+  download: /downloads/saferides.zip
+  description: |
+    SafeRides offers a way for the people of a community to travel when
+    they are not able to safely drive themselves. It combines the concepts
+    of “designated drivers” and “mobile taxi services” to provide
+    individuals with a convenient way to obtain a ride when needed. When
+    the app is opened, a map view is displayed with a pin on the user’s
+    current location. The user can choose to be picked up at that
+    location, or they can designate a new pick-up location by searching an
+    address or a location name such as “Taco Bell”, which queries their
+    local area. He or she can also designate a default “Home” location in
+    the Settings window. Then, the user clicks “Request”, and a
+    notification is sent to nearby drivers in the area that are part of
+    their network. In the future, we would like to notify the user about
+    the estimated time of arrival of the driver, and to allow the user to
+    specify a destination location so that the drivers are aware of this
+    beforehand. The ride does not have a price, but the user can look at
+    his or her history to see who drove them, and then he or she can
+    donate money to that driver as a “Thank You”. This app is applicable
+    and scalable to all communities. The drivers are volunteers who apply
+    online to a designated community. The driver’s app interface will be
+    slightly different, but they will also be able to request rides when
+    needed. Due to a short amount of time, we were not able to implement
+    all of the functionalities in the app that are necessary; but given
+    the opportunity, we will develop it further until it is a fully-
+    functioning service.
+
+- name: STUBY
+  logo: /images/logos/stuby_logo.png
+  download: /downloads/stuby.zip
+  description: |
+    Imagine the fun you could have when you put a group of good
+    friend in a study group.  STUBY is a social study group platform
+    that allows you to create and join study group with your friends,
+    to offer tutoring to other students in the subjects that you
+    mastered, and to meet new friends who share your hobbies outside
+    of school. Study groups cultivate concentrated and helpful
+    environments to boost students’ academic performance. This is
+    especially useful to students who are new to the school
+    environment and culture. STUBY revolutionizes traditional study
+    group concept by linking it to study-assisting games and
+    activities through web applications and mobile apps to engage
+    students. In this new dimension of studying, STUBY incorporates
+    the essence of social interactions and draw students who share
+    similar hobbies together through study groups. By "stubying"
+    together, STUBY could integrate the process of proactive learning
+    into our daily activity!
+
+- name: TechKnowledge
+  logo: /images/logos/techknowledge_logo.png
+  download: /downloads/techknowledge.zip
+  description: |
+    TechKnowledge is a site created to connect those that need technology
+    for learning with those that have excess electronics. Each user can
+    submit a project profile which highlights the user's technological
+    needs, a description of the project, and location of the user. Users
+    looking to donate their excess electronics can browse project profiles
+    to decide on a cause to donate to. In order to maximize efficiency,
+    users in need can search for items donors have available. At the
+    beginning stages of this site, TechKnowledge will only put users in
+    contact with each other based on location so that donating items is
+    convenient. If users are under a certain age, messages sent through
+    TechKnowledge will be sent to the user's parents. By making donating
+    convenient more electronics will be reaching the hands of those that
+    need them rather than causing environmental harm in landfills or going
+    to waste in cluttered basements across the world. TechKnowledge allows
+    users to connect to promote learning through technology and
+    electronics without money or availability being a factor.
+
+- name: TravelSafe
+  logo: /images/logos/travelsafe_logo.png
+  download: /downloads/travelsafe.zip
+  description: |
+    TravelSafe uses the worlds largest event database to arm travelers
+    with information to keep themselves safe. Although travel safety
+    notification programs have existed through governments and other
+    organizations for years, this new application changes the way we can
+    explore historical data for ourselves. Being able to map and query
+    different types of events that occurred in specific locations can be
+    used for education on cultural, political, and business incidents that
+    may affect travel destinations - and could potentially lead to
+    unstable or unsafe environments. Get connected to thousands of events
+    occurring around the world every day; Use TravelSafe.
